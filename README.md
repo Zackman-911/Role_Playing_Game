@@ -1,6 +1,3 @@
-Sure! Here's a README file for your GitHub repository:
-
----
 
 # Dragon Repeller RPG Game
 
